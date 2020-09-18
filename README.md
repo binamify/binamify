@@ -37,6 +37,6 @@ Hello! My name is [Binam Karki](https://binamkarki.com.np/) and I am from Nepal.
 #### Find me on Facebook      >>> [Binam Karki](https://www.facebook.com/beenam.karki.5)
 #### Find me on Instagram     >>> [_binam1](https://www.instagram.com/__binam1__/)
 #### Find me on StackOverflow >>> [BinamKarki](https://stackoverflow.com/users/12105673/binamkarki)
-#### Ready my Blogs           >>> [BlogsByBinam](https://pythonbybinam.blogspot.com/)
+#### Read my Blogs           >>> [BlogsByBinam](https://pythonbybinam.blogspot.com/)
 #### Visit my Portfolio       >>> [Binam Karki](https://www.binamkarki.com.np)
 
