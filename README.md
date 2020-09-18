@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 # Binam Karki
 ### I am Data Science Enthusiast.
 
+Hello! My name is [Binam Karki](https://binamkarki.com.np/) and I am from Nepal. I am currently pursuing my Bachelor Degree in Statistics and Mathematics. I am into learning Data Science and Programming.
+
+
