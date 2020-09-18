@@ -28,6 +28,14 @@ Here are some ideas to get you started:
 -->
 
 # Binam Karki
+<p>
+  <a href="https://github.com/Explorer720?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Explorer720?style=for-the-badge">
+  </a>
+  <a href="https:??twitter.com/binamkarki222@gmail.com?tab=followers">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/binamkarki222?style=for-the-badge">
+  </a>
+</p>
 ### I am Data Science Enthusiast.
 
 Hello! My name is [Binam Karki](https://binamkarki.com.np/) and I am from Nepal. I am currently pursuing my Bachelor Degree in Statistics and Mathematics. I am into learning Data Science and Programming.
