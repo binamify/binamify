@@ -1,5 +1,5 @@
 <p>
-  <a href="https://github.com/Explorer720">
+  <a href="https://github.com/Explorer720?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Explorer720?style=for-the-badge">
   </a>
 </P>
