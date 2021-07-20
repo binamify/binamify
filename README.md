@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 </p>
 
 
-###  I am Data Science Enthusiast.
+###  I am Web Developer & Data Science Enthusiast.
 
-Hello! My name is [Binam Karki](https://binamkarki.com.np/) and I am from Nepal. I am currently pursuing my Bachelor Degree in Statistics and Mathematics. I am into learning Data Science and Programming.
+Hello! My name is [Binam Karki](https://binamkarki.com.np/) and I am from Nepal. I am currently pursuing my Bachelor Degree in Statistics and Mathematics. I am into learning Data Science and I make websites.
 
 
 #### Find me on Facebook      >>> [Binam Karki](https://www.facebook.com/ExplorerBinam)
