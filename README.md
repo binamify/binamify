@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/binamkarki222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binamkarki222" height="30" width="40" /></a> &nbsp; &nbsp;
+<a href="https://twitter.com/binamkarki222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binamkarki222" height="30" width="40" /></a> 
 <a href="https://stackoverflow.com/users/binamkarki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="binamkarki" height="30" width="40" /></a>
 <a href="https://kaggle.com/binamkarki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="binamkarki" height="30" width="40" /></a>
 <a href="https://fb.com/explorerbinam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="explorerbinam" height="30" width="40" /></a>
