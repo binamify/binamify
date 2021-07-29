@@ -32,3 +32,6 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=explorer720&show_icons=true&locale=en" alt="explorer720" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=explorer720&show_icons=true&locale=en&layout=compact" alt="explorer720" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=explorer720&" alt="explorer720" /></p>
