@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer and Data Science Enthusiast</h3>
 
 <p align="left"> <a href="https://twitter.com/binamkarki222" target="blank"><img src="https://img.shields.io/twitter/follow/binamkarki222?logo=twitter&style=for-the-badge" alt="binamkarki222" /></a> </p>
-<p align="left"><a href="https://profile-counter.glitch.me/{YOUR USER}/count.svg"></p>
+<p align="left"><a href="https://profile-counter.glitch.me/Explorer720/count.svg"></p>
 
 
 - 🔭 I’m currently working on **Javascript & Python**
