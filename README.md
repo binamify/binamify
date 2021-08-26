@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/binamkarki222" target="blank"><img src="https://img.shields.io/twitter/follow/binamkarki222?logo=twitter&style=for-the-badge" alt="binamkarki222" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
 
-- 🔭 I’m currently learning  **Javascript**
+- 🔭 I’m currently learning  **Python & Statistics**
 
 - 🌱 I’m currently exploring **matplotlib**
 
