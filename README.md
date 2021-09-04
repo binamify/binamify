@@ -15,7 +15,7 @@
 <a href="https://kaggle.com/binamkarki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="binamkarki" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=binamify&show_icons=true&locale=en" alt="binamify" />
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=binamify&show_icons=true&locale=en" alt="binamify" /> -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binamify&show_icons=true&locale=en&layout=compact" alt="binamify" /></p>
 
 
